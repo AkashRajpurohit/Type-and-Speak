@@ -1,4 +1,4 @@
-# Text & Speak
+# Type & Speak
 
 It is a simple web app which uses Browser [Speech Sythesis Api](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) to convert text into speech.
 
